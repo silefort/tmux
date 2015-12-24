@@ -4,17 +4,17 @@ When you run "tmux", it creates a new tmux session. A tmux session is a containe
 
 # About tmux sessions (outside tmux):
 
-* tmux                          # Create a session
-* tmux new -s [name]  		# Create a session with name
-* tmux a                        # Attach to the last used session
-* tmux a -t X                  	# Attach to tmux session with ID or name X
-* tmux ls                       # Show the current active sessions
-* tmux kill-session -t X  	# kill tmux session X
+* __tmux__                          # Create a session
+* __tmux new -s [name]__  		# Create a session with name
+* __tmux a__                       # Attach to the last used session
+* __tmux a -t X__                  	# Attach to tmux session with ID or name X
+* __tmux ls__                       # Show the current active sessions
+* __tmux kill-session -t X__  	# kill tmux session X
 
 # About tmux sessions (in a tmux session):
-* Ctrl-b (      # previous session
-* Ctrl-b )      # next session
-* Ctrl-b s      # choose a session from a list
+* __Ctrl-b (__      # previous session
+* __Ctrl-b )__      # next session
+* __Ctrl-b s__      # choose a session from a list
 
 # About windows :
 
