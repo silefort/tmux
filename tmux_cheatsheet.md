@@ -73,6 +73,7 @@
     PREFIX p        Paste buffer
     PREFIX =        Lists all paste buffers
     PREFIX C-c      Copy last buffer to clipboard
+    PREFIX g        Google last buffer
 
 #### Copy Mode:
 
