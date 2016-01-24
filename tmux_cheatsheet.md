@@ -46,10 +46,10 @@
     PREFIX q        Momentarily displays pane numbers in each pane.
     PREFIX x        Closes the current pane after prompting for confirmation.
     PREFIX SPACE    Cycles through the various pane layouts.
-    PREFIX h        Go Right
-    PREFIX j        Go Down
-    PREFIX k        Go Up
-    PREFIX l        Go Right
+    Ctrl h          Go Right
+    Ctrl j          Go Down
+    Ctrl k          Go Up
+    Ctrl l          Go Right
     PREFIX H        Resize Pane 
     PREFIX J        Resize Pane 
     PREFIX K        Resize Pane 
