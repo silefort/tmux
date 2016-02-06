@@ -101,6 +101,7 @@
     PREFIX f        Send Ctrl f
     PREFIX P        Toggle Log output to <window_name>.log
     PREFIX t        Show the time in the current split
+    PREFIX k        Clear History (Showed and Hidden)
 
 ### Command Mode:
 
