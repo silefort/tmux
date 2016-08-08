@@ -69,7 +69,7 @@
 
 ### About Buffers:
 
-    PREFIX Esc      Switch to Copy Mode
+    PREFIX v      Switch to Copy Mode
     PREFIX p        Paste buffer
     PREFIX =        Lists all paste buffers
     PREFIX C-c      Copy last buffer to clipboard
