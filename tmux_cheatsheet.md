@@ -40,7 +40,7 @@
 
 ### About Panes:
 
-    PREFIX |        Divides the current window in half vertically.
+    PREFIX |/i      Divides the current window in half vertically.
     PREFIX -        Divides the current window in half horizontally.
     PREFIX o        Cycles through open panes.
     PREFIX q        Momentarily displays pane numbers in each pane.
